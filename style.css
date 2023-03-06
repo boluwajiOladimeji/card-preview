@@ -33,7 +33,7 @@ main {
 }
 
 .img-container {
-  height: 280px;
+  height: 300px;
   position: relative;
   margin-bottom: 10px;
   transition: all 0.4s ease-in;
