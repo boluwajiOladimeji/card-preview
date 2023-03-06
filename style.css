@@ -17,7 +17,7 @@ body {
   line-height: 1.5;
   color: hsl(215, 51%, 70%);
   background: hsl(217, 54%, 11%);
-  padding: 3em;
+  padding: 1em;
   font-family: 'Outfit', sans-serif;
   font-weight: 400;
   display: grid;
