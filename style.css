@@ -12,24 +12,22 @@ img {
   width: 100%;
 }
 
-
-
 body {
   font-size: 18px;
   line-height: 1.5;
   color: hsl(215, 51%, 70%);
   background: hsl(217, 54%, 11%);
-  padding: 5em;
-  padding-left: 0;
+  padding: 3em;
   font-family: 'Outfit', sans-serif;
   font-weight: 400;
   display: grid;
   place-items: center;
-  min-height:100vh;
+  min-height: 100vh;
 }
 
 main {
   width: fit-content;
+  margin: 0 auto;
   background: hsl(216, 50%, 16%);
   padding: 1.5em;
   border-radius: 5px;
